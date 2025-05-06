@@ -24,7 +24,7 @@ A full-stack AI-powered image generation application that transforms user prompt
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **AI Integration**: OpenAI DALL·E 3 API
-- **Deployment**: [Add hosting link here, e.g., Vercel / Render]
+- **Deployment**: Vercel and Render
 
 
 ## 📂 Folder Structure
